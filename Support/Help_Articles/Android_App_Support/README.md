@@ -46,8 +46,6 @@ The downloaded files can also be found in "Settings > Transfers".
 
 Once you see the list of downloaded files, tap on a file to begin installing it.
 
-[**This help article**](/Support/Help_Articles/Android_App_Support/APKPure/) has the detailed steps of installing APK Pure app store using this method.
-
 ### Using File Manager
 Another option to install .apk files is to first copy them to your device (e.g. to the Downloads folder) and then use the **File manager** application (Settings > Storage > User data, see the pulley menu) to install the file/application. Start the installation simply by tapping  the .apk file in File Manager. To transfer files between your PC and your Sailfish device, please [**see this document**](/Support/Help_Articles/Moving_Files_between_PC_and_Sailfish_Device/).
 
